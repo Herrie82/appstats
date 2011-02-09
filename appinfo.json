@@ -1,0 +1,17 @@
+{
+	"title": "AppStats",
+	"id": "org.webosinternals.appstats",
+	"version": "0.0.1",
+	"release_date":	"07-Feb-2011",
+	"vendor": "WebOS Internals",
+	"vendor_email":	"support@webos-internals.org",
+	"vendor_url": "http://www.webos-internals.org/wiki/Application:AppStats",
+	"type": "web",
+	"main": "index.html",
+	"icon": "icon.png",
+	"miniicon": "miniicon.png",
+	"removable": "true",
+	"noWindow": true,
+	"noDeprecatedStyles": true,
+	"dockMode": true
+}
